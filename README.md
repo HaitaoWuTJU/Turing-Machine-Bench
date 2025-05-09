@@ -19,3 +19,12 @@ Evaluate the model's performance with the following command:
 ```
 python acc.py --model Qwen/Qwen2.5-14B-Instruct --bench_name TMBench --chat
 ```
+## Cite
+```
+@article{wu2025turing,
+  title={Turing Machine Evaluation for Large Language Model},
+  author={Wu, Haitao and Han, Zongbo and Huang, Huaxi and Zhang, Changqing},
+  journal={arXiv preprint arXiv:2504.20771},
+  year={2025}
+}
+```
