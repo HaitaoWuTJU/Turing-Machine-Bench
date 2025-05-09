@@ -1,5 +1,5 @@
 # Turing Machine Bench (TMBench)
-This is the official repository for Turing Machine Evaluation for Large Language Model. This repository includes the necessary scripts and instructions for generating data, running LLM simulations, and evaluating model performance.
+This is the official repository for [Turing Machine Evaluation for Large Language Model](https://arxiv.org/pdf/2504.20771?). This repository includes the necessary scripts and instructions for generating data, running LLM simulations, and evaluating model performance.
 
 ## Data generate
 To generate the data required for Turing Machine evaluation, run the following command:
