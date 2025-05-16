@@ -81,3 +81,17 @@ We acknowledge the contributions of the following state-of-the-art language mode
 Models: [Gemini](https://deepmind.google/technologies/gemini/), [Gemma](https://ai.google.dev/gemma), [DeepSeek](https://www.deepseek.com/), [Qwen](https://huggingface.co/Qwen), [LLaMA](https://www.llama.com/), [Grok](https://x.ai/), [Claude](https://www.anthropic.com/index/claude), [GPT](https://openai.com/), and [Doubao](https://www.doubao.com/)
 
 Datasets: [AIME](https://artofproblemsolving.com/wiki/index.php/AIME_Problems_and_Solutions), [MATH500](https://github.com/openai/prm800k), [GPQA](https://github.com/idavidrein/gpqa) and [MMLU-Pro](https://github.com/TIGER-AI-Lab/MMLU-Pro)
+
+
+## Citation
+```
+@article{wu2025turing,
+  title={Turing Machine Evaluation for Large Language Model},
+  author={Wu, Haitao and Han, Zongbo and Huang, Huaxi and Zhang, Changqing},
+  journal={arXiv preprint arXiv:2504.20771},
+  year={2025}
+}
+```
+
+## Contact us
+For any additional questions, feel free to email wuhaitao@tju.edu.cn .
